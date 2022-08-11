@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morris-mkak
 - 👀 I’m interested in sotware dev
-- 🌱 I’m currently learning how to code
+- 🌱 I am happy
 - 💞️ I’m looking to collaborate on this learning process
 - 📫 How to reach me via email mainakinyua84@gmail.com
 
