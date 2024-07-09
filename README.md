@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @morris-mkak
-- 👀 I’m interested in sotware dev
-- 🌱 I am happy
-- 💞️ I’m looking to collaborate on this learning process
+- 👀 I’m interested in software dev
 - 📫 How to reach me via email mainakinyua84@gmail.com
 
 <!---
