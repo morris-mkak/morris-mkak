@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morris-mkak
 - 👀 I’m a junior python developer.
-- I can work on Erp implementation and tech support.
+- I work on Erp implementation and tech support.
 - I am efficient in python and html rendering.
 - 📫 How to reach me via email mainakinyua84@gmail.com
 
